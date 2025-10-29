@@ -1,0 +1,6 @@
+{
+  "name": "BrainBox AI",
+  "description": "An advanced AI hosting platform to store, version, and manage your AI models. Features a real-time collaborative code editor, file explorer, and one-click deployment.",
+  "main": "index.html",
+  "requestFramePermissions": []
+}
